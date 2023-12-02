@@ -1,0 +1,212 @@
+@media screen and (max-width: 936px) {
+  .header-banner-cont {
+    min-height: 900px;
+  }
+  .header-banner-cont .banner-cont {
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 70px;
+  }
+  .header-banner-cont .banner-cont .banner-text {
+    margin: auto;
+    text-align: center;
+  }
+  .header-banner-cont .banner-cont .banner-text .v3-1-box {
+    margin: auto;
+  }
+  .header-banner-cont .banner-cont .banner-image {
+    margin: auto;
+  }
+  .why-qubly-sec .why-qubly-benefits-box {
+    flex-wrap: wrap;
+    row-gap: 50px;
+  }
+  .why-qubly-sec .why-qubly-benefits-box .benefit {
+    margin: auto;
+  }
+  .launch-with-best-sec {
+    flex-wrap: wrap;
+    row-gap: 40px;
+  }
+  .launch-with-best-sec .image-circle {
+    margin: auto;
+  }
+  .launch-with-best-sec .image-circle img {
+    max-width: 270px;
+    margin: auto;
+  }
+  .launch-with-best-sec .launch-with-best-text {
+    margin: auto;
+  }
+  .for-engineering-terms-sec {
+    flex-wrap: wrap;
+    row-gap: 50px;
+  }
+  .for-engineering-terms-sec .data-driven-text {
+    margin: auto;
+  }
+  .for-engineering-terms-sec .data-image {
+    margin: auto;
+  }
+  .for-engineering-terms-sec .data-image > img {
+    width: 500px;
+  }
+  .brands-section .review-box .logo-box {
+    flex-wrap: wrap;
+    row-gap: 40px;
+  }
+  .brands-section .review-box .logo-box > svg {
+    margin: auto;
+  }
+  .signup-section {
+    flex-wrap: wrap;
+    row-gap: 80px;
+  }
+  .signup-section .signup-left-section {
+    margin: auto;
+  }
+  .signup-section .signup-form {
+    margin: auto;
+  }
+  footer .footer-cont {
+    flex-wrap: wrap;
+    row-gap: 60px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .header-banner-cont nav .nav-menu {
+    width: 100%;
+    position: absolute;
+    top: -320px;
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 30px;
+    transition: 0.3s;
+  }
+  .header-banner-cont nav .nav-menu ul {
+    flex-direction: column;
+  }
+  .header-banner-cont nav .nav-menu ul li:last-child {
+    width: 320px;
+    margin: auto;
+  }
+  .header-banner-cont nav .nav-menu.active {
+    top: 70px;
+  }
+  .header-banner-cont nav .burger-menu {
+    display: block;
+  }
+  .header-banner-cont .banner-cont .banner-image svg {
+    width: 400px;
+  }
+  .for-engineering-terms-sec {
+    flex-wrap: wrap;
+    row-gap: 50px;
+  }
+  .for-engineering-terms-sec .data-driven-text {
+    margin: auto;
+  }
+  .for-engineering-terms-sec .data-image {
+    margin: auto;
+  }
+  .for-engineering-terms-sec .data-image > img {
+    width: 400px;
+  }
+  .signup-section {
+    flex-wrap: wrap;
+    row-gap: 80px;
+  }
+  .signup-section .signup-left-section {
+    margin: auto;
+  }
+  .signup-section .signup-form {
+    margin: auto;
+  }
+  .signup-section .signup-form input {
+    width: 270px;
+    display: block;
+  }
+  .signup-section .signup-form a {
+    max-width: 270px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .header-banner-cont nav .nav-menu {
+    width: 100%;
+    position: absolute;
+    top: -320px;
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 30px;
+    transition: 0.3s;
+  }
+  .header-banner-cont nav .nav-menu ul {
+    flex-direction: column;
+  }
+  .header-banner-cont nav .nav-menu ul li:last-child {
+    width: 320px;
+    margin: auto;
+  }
+  .header-banner-cont nav .nav-menu.active {
+    top: 70px;
+  }
+  .header-banner-cont nav .burger-menu {
+    display: block;
+  }
+  .header-banner-cont .banner-cont .banner-text h2 {
+    font-size: 2rem;
+  }
+  .header-banner-cont .banner-cont .banner-text p {
+    font-size: 0.8rem;
+  }
+  .header-banner-cont .banner-cont .banner-image svg {
+    width: 300px;
+  }
+  .why-qubly-sec h2 {
+    font-size: 2rem;
+  }
+  .launch-with-best-sec .launch-with-best-text h3 {
+    font-size: 2rem;
+  }
+  .launch-with-best-sec .launch-with-best-text p {
+    font-size: 0.8rem;
+  }
+  .for-engineering-terms-sec .data-driven-text h3 {
+    font-size: 2rem;
+  }
+  .for-engineering-terms-sec .data-driven-text p {
+    font-size: 0.8rem;
+  }
+  .for-engineering-terms-sec {
+    flex-wrap: wrap;
+    row-gap: 50px;
+  }
+  .for-engineering-terms-sec .data-driven-text {
+    margin: auto;
+  }
+  .for-engineering-terms-sec .data-image {
+    margin: auto;
+  }
+  .for-engineering-terms-sec .data-image > img {
+    width: 400px;
+  }
+  .signup-section {
+    flex-wrap: wrap;
+    row-gap: 80px;
+  }
+  .signup-section .signup-left-section {
+    margin: auto;
+  }
+  .signup-section .signup-form {
+    margin: auto;
+  }
+  .signup-section .signup-form input {
+    width: 270px;
+    display: block;
+  }
+  .signup-section .signup-form a {
+    max-width: 270px;
+  }
+}/*# sourceMappingURL=responsive.css.map */
